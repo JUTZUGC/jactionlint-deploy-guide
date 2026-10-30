@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "jactionlint-guide": {
+      "command": "node",
+      "args": [
+        "mcp-server.mjs"
+      ]
+    }
+  }
+}
